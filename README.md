@@ -11,4 +11,5 @@ Finding the who are More Defaulter and Why
 ## Conclusion
 - Renters with high loan-to-income ratios are high-risk borrowers.
 - Loan-to-income ratio can be used as a key metric for risk assessment.
-![Uploading Screenshot 2025-11-18 202700.png…]()
+  <img width="1269" height="792" alt="Screenshot 2025-11-18 202700" src="https://github.com/user-attachments/assets/4eafc19b-513a-4fc9-9ae7-78dd7462fcb0" />
+
